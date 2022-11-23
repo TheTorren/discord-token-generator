@@ -1,0 +1,4 @@
+botright
+httpx~=0.23.0
+validators~=0.20.0
+pyfadecolor
